@@ -17,7 +17,7 @@ caproverOneClickApp:
         - id: $$cap_stirling_version
           label: stirling version tag
           description: Check out their docker page for the valid tags @ https://hub.docker.com/r/frooodle/s-pdf
-          defaultValue: 0.19.1
+          defaultValue: 0.20.0
     instructions:
         start: stirling is a locally hosted web application that allows you to perform various operations on PDF files
         end: >-
